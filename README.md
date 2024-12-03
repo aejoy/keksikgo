@@ -1,4 +1,4 @@
-<img src="cupcake.png"/>
+<img src="preview.png"/>
 
 <p align="center">Package for «Keksik» API in VK Mini App</p>
 
